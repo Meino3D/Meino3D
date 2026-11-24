@@ -4,7 +4,9 @@
 **Download:** [GitHub Releases](https://github.com/Meino3D/Meino3D/releases)
 
 Meino3D is a free building and decoration mod for Minecraft, featuring original 3D blocks, furniture, plants, and decorative items.
+
 Many of its blocks are designed to complement the aesthetic of Mizuno's resource pack.
+
 Meino3D is an independent, personal project developed by a solo creator.
 
 Meino3Dは無料の建築、装飾用のマイクラModです。
