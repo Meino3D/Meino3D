@@ -1,7 +1,9 @@
 ## 🦋 About Meino3D
 
 **Official Website (JP / EN):** https://xooox.ooo/
+
 **Download:** [GitHub Releases](https://github.com/Meino3D/Meino3D/releases)
+
 
 Meino3D is a free building and decoration mod for Minecraft, featuring original 3D blocks, furniture, plants, and decorative items.
 
@@ -46,6 +48,9 @@ For full details, please refer to the official website.
 ## 🌐 Language & Support
 
 Japanese is the primary language of this project.
+
 English translations of the website are assisted by ChatGPT and may contain inaccuracies.
+
 As this is a free, independently developed mod, individual support and replies to inquiries are not guaranteed.
+
 Thank you for your understanding!
