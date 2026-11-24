@@ -17,7 +17,9 @@ Meino3Dは無料の建築、装飾用のマイクラModです。
 ## 🌿 Official Website
 
 **https://xooox.ooo/**
+
 Japanese / English available.
+
 Visit the official website for interactive 3D block previews, crafting recipes, special features, known issues, and more.
 
 ## 📦 Requirements
