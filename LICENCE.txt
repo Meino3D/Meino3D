@@ -1,0 +1,62 @@
+Meino3D Terms of Use
+
+These terms apply to the Meino3D mod, resource packs, and the data they contain, including models and textures.
+Please review the following terms before use.
+
+1. Permitted Uses
+
+The following uses are generally permitted:
+- Personal use and gameplay
+- Taking and sharing screenshots featuring Meino3D
+- Publishing videos and livestreaming featuring Meino3D, including monetized content. Credit is required regardless of monetization.
+- Modifying models, textures, and other assets for personal use (Publishing or distributing modified assets is prohibited.)
+- Publishing and distributing builds and world saves created using Meino3D is permitted.
+However, you must not bundle the Meino3D mod, resource packs, models, textures, or other assets with the distributed files. If Meino3D is required to use the world, please direct users to an authorized distribution source so they can download and install it themselves.
+Credit is optional for screenshots.
+For all videos and livestreams, whether monetized or not, please include the name “Meino3D” and a link to the official website in an easily accessible location, such as the description.
+Official Meino3D website: https://xooox.ooo/
+Creator: Meino
+
+2. Prohibited Uses
+
+The following activities are prohibited:
+- Unauthorized redistribution, reposting, or mirroring of the mod or resource packs
+- Publishing or distributing modified versions of the mod or resource packs
+- Extracting models, textures, or other assets for reuse, publication, or distribution in other mods, resource packs, or creative works
+- Selling, distributing for a fee, or otherwise commercially exploiting Meino3D or its included assets without permission (except for video and livestream monetization permitted under Section 1)
+- Impersonating the creator or associated parties, or misrepresenting unofficial files as official releases
+
+3. Redistribution and Modpack Inclusion
+
+- Reuploading or redistributing the Meino3D JAR file on third-party websites or distribution platforms without the creator’s permission is prohibited.
+- Claiming Meino3D as your own creation or publishing or distributing modified versions of the mod to third parties is prohibited.
+- However, inclusion in modpacks that automatically download Meino3D from an authorized distribution source, such as Modrinth, is permitted.
+No individual permission is required for modpacks using this authorized download method.
+Prior permission from the creator is required to distribute a modpack that directly bundles the Meino3D JAR file.
+
+4. Use with Generative AI
+
+The following uses of visual assets included in Meino3D for which the creator holds copyright, including 3D models, textures, and illustrations, are prohibited:
+- Use for generative AI training, additional training, or fine-tuning (including LoRA)
+- Including or providing assets in datasets for generative AI training
+- Using assets as inputs or references for generative AI tools, including image, 3D model, and video generation tools
+- Using generative AI to process or modify assets or generate derivative assets
+- These restrictions also apply to cropped portions of assets and assets modified for personal use.
+
+5. Disclaimer
+
+Meino3D is an unofficial, independently created project.
+It is not affiliated with Mojang Studios or Microsoft.
+To the extent permitted by applicable law, the creator accepts no liability for bugs, data corruption, or other damages arising from the use of this content.
+Compatibility with Minecraft updates or other mods is not guaranteed.
+
+6. Miscellaneous
+
+These terms and Meino3D blocks may be changed without prior notice as necessary.
+For uses not covered by these terms, please contact the creator in advance.
+If these terms are violated, the creator may request that the use cease or that published content be removed.
+For third-party assets, their respective license terms take precedence.
+
+Last Updated
+
+2026.11.25
